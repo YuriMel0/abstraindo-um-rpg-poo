@@ -1,0 +1,16 @@
+C:\Users\meloy\Documents\PROJETOS_GIT\abstraindo_um_rpg_poo\abstraindo-um-rpg-poo\bin\Debug\net5.0\abstraindo-um-rpg-poo.exe
+C:\Users\meloy\Documents\PROJETOS_GIT\abstraindo_um_rpg_poo\abstraindo-um-rpg-poo\bin\Debug\net5.0\abstraindo-um-rpg-poo.deps.json
+C:\Users\meloy\Documents\PROJETOS_GIT\abstraindo_um_rpg_poo\abstraindo-um-rpg-poo\bin\Debug\net5.0\abstraindo-um-rpg-poo.runtimeconfig.json
+C:\Users\meloy\Documents\PROJETOS_GIT\abstraindo_um_rpg_poo\abstraindo-um-rpg-poo\bin\Debug\net5.0\abstraindo-um-rpg-poo.runtimeconfig.dev.json
+C:\Users\meloy\Documents\PROJETOS_GIT\abstraindo_um_rpg_poo\abstraindo-um-rpg-poo\bin\Debug\net5.0\abstraindo-um-rpg-poo.dll
+C:\Users\meloy\Documents\PROJETOS_GIT\abstraindo_um_rpg_poo\abstraindo-um-rpg-poo\bin\Debug\net5.0\abstraindo-um-rpg-poo.pdb
+C:\Users\meloy\Documents\PROJETOS_GIT\abstraindo_um_rpg_poo\abstraindo-um-rpg-poo\obj\Debug\net5.0\abstraindo-um-rpg-poo.csproj.AssemblyReference.cache
+C:\Users\meloy\Documents\PROJETOS_GIT\abstraindo_um_rpg_poo\abstraindo-um-rpg-poo\obj\Debug\net5.0\abstraindo-um-rpg-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meloy\Documents\PROJETOS_GIT\abstraindo_um_rpg_poo\abstraindo-um-rpg-poo\obj\Debug\net5.0\abstraindo-um-rpg-poo.AssemblyInfoInputs.cache
+C:\Users\meloy\Documents\PROJETOS_GIT\abstraindo_um_rpg_poo\abstraindo-um-rpg-poo\obj\Debug\net5.0\abstraindo-um-rpg-poo.AssemblyInfo.cs
+C:\Users\meloy\Documents\PROJETOS_GIT\abstraindo_um_rpg_poo\abstraindo-um-rpg-poo\obj\Debug\net5.0\abstraindo-um-rpg-poo.csproj.CoreCompileInputs.cache
+C:\Users\meloy\Documents\PROJETOS_GIT\abstraindo_um_rpg_poo\abstraindo-um-rpg-poo\obj\Debug\net5.0\abstraindo-um-rpg-poo.dll
+C:\Users\meloy\Documents\PROJETOS_GIT\abstraindo_um_rpg_poo\abstraindo-um-rpg-poo\obj\Debug\net5.0\refint\abstraindo-um-rpg-poo.dll
+C:\Users\meloy\Documents\PROJETOS_GIT\abstraindo_um_rpg_poo\abstraindo-um-rpg-poo\obj\Debug\net5.0\abstraindo-um-rpg-poo.pdb
+C:\Users\meloy\Documents\PROJETOS_GIT\abstraindo_um_rpg_poo\abstraindo-um-rpg-poo\obj\Debug\net5.0\abstraindo-um-rpg-poo.genruntimeconfig.cache
+C:\Users\meloy\Documents\PROJETOS_GIT\abstraindo_um_rpg_poo\abstraindo-um-rpg-poo\obj\Debug\net5.0\ref\abstraindo-um-rpg-poo.dll
