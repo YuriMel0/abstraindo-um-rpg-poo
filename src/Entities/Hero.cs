@@ -1,16 +1,26 @@
 namespace abstraindo_um_rpg_poo.src.Entities
 {
-    public class Arus
+    public class Hero
     {
-        public Arus(string Name, int Level, string HeroType)
+        public Hero(string Name, int Level, string HeroType)
         {
             this.Name = Name;
             this.Level = Level;
             this.HeroType = HeroType;
         }
+
+        public Hero()
+        {
+            
+        }
         public string Name { get; set; }
         public int Level { get; set; }
         public string HeroType { get; set; }
+
+        public virtual string Attack()
+        { 
+            return $"{this.Name} atacou com a sua espada"; 
+        }
 
         public override string ToString()
         {

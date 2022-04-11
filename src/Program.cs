@@ -7,9 +7,11 @@ namespace abstraindo_um_rpg_poo
     {
         static void Main(string[] args)
         {
-            Arus hero = new Arus("Arus", 23, "Knigth");
+            Hero hero = new Hero("Arus", 23, "Knigth");
+            Wizard oponente = new Wizard("Mestre das sombras", 35, "Devil");
 
-            Console.WriteLine(hero);
+            Console.WriteLine(hero.Attack());
+            Console.WriteLine(oponente.Attack());
         }
     }
 }
