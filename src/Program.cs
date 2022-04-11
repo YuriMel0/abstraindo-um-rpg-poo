@@ -8,7 +8,8 @@ namespace abstraindo_um_rpg_poo
         static void Main(string[] args)
         {
             Arus hero = new Arus("Arus", 23, "Knigth");
-            
+
+            Console.WriteLine(hero);
         }
     }
 }
